@@ -1,0 +1,23 @@
+{
+    "data": {
+        "valid_login":{
+            "email": "christiana.nyuma7@gmail.com",
+            "password": "password"
+        },
+
+        "ExistingEmail_CaseVariation":{
+            "email": "ChrisTiana.NYuma7@Gmail.COM",
+            "password": "password"
+        },
+
+        "Wrong_Password":{
+            "email":"christiana.nyuma7@gmail.com",
+            "password":"wrongpassword"
+        },
+
+        "Unregistered_Email":{
+            "email":"mabelmabel@gmail.com",
+            "password":"password"
+        }
+    }
+}

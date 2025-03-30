@@ -1,0 +1,15 @@
+{
+    "data": {
+        "registered_email":{
+            "email":"Bounding@gmail.com"
+        },
+
+        "Unregistered_email":{
+            "email":"unregister@gmail.com"
+        },
+
+        "Invalid_emailFormat":{
+            "email":"invalidemail.com"
+        }
+    }
+}

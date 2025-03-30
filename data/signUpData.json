@@ -1,0 +1,38 @@
+{
+    "data": {
+        "valid_signUp": {
+            "email": "outboundcall@yopmail.com",
+            "password": "pass"
+        },
+
+        "EmailWith_mixedCases":{
+            "email": "ouTBoundcallING@yoPmail.com",
+            "password": "pass"
+        },
+
+        "EmailPassword_withspecialCharacters":{
+            "email": "boundcallout@yopmail.com",
+            "password": "pass@123"
+        },
+
+        "domainExtensionOf_2_Characters":{
+            "email": "outboundcall@mail.co",
+            "password": "pass"
+        },
+
+        "extensionUpTo_5_Characters":{
+            "email": "outboundcall@mail.travel",
+            "password": "pass3"
+        },
+
+        "MissingSymbol":{
+            "email": "outboundcall.com",
+            "password": "pass"
+        },
+
+        "MissingDomainName":{
+            "email": "outboundcall@.com",
+            "password": "pass"
+        }
+    }
+}
